@@ -6,4 +6,6 @@
   * [第一课](di-yi-ke.md)
 * [css](css.md)
   * [flex-basis与width的区别](css/flex-basisyu-width-de-qu-bie.md)
+* laravel
+  * [install homestead](install-homestead.md)
 

@@ -20,21 +20,17 @@
 
 ##### 新建一个homestead的文件夹，然后将下载的box重命名为homestead.box，然后在此文件夹内运行如下命令
 
-\`\`\`\`
-
+```
 vagrant box add laravel/homestead homestead.box
-
-\`\`\`\`
+```
 
 ![](/assets/20180118225904.png)
 
 ##### 接着运行
 
-\`\`\`\`
-
+```
 vagrant box list
-
-\`\`\`\`
+```
 
 ![](/assets/20180118230038.png)
 
@@ -42,7 +38,7 @@ vagrant box list
 
 #### 下载官方homestead配置
 
-##### 参照官方laravel5.5的\[官方文档\]\([http://laravelacademy.org/post/7658.html\](http://laravelacademy.org/post/7658.html%29\)
+##### 参照官方laravel5.5的\[官方文档\]\([http://laravelacademy.org/post/7658.html](http://laravelacademy.org/post/7658.html%29\)\)
 
 ##### 按照文档的说明首先运行\(必须本地先安装git\)
 

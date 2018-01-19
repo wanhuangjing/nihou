@@ -38,7 +38,7 @@ vagrant box list
 
 #### 下载官方homestead配置
 
-##### 参照官方laravel5.5的[http://laravelacademy.org/post/7658.html](http://laravelacademy.org/post/7658.html "官方文档")
+##### [参照官方laravel5.5的http://laravelacademy.org/post/7658.html](#参照官方laravel55的httplaravelacademyorgpost7658html)
 
 ##### 按照文档的说明首先运行\(必须本地先安装git\)
 

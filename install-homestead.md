@@ -40,7 +40,7 @@ vagrant box list
 
 ##### 参照官方laravel5.5的\[官方文档\]: [http://laravelacademy.org/post/7658.html](http://laravelacademy.org/post/7658.html)
 
-##### \[這是一個行內連結\]\(https://www.google.com\)
+##### \[111\]\(www.baudi.com\)
 
 ##### 按照文档的说明首先运行\(必须本地先安装git\)
 

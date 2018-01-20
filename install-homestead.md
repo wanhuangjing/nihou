@@ -65,10 +65,10 @@ ini.bat
 * provider: 表示Vagrant的提供者(`vistualbox`、`vmware_fushion`、`vmware_workstation`或`parallels`)
 
 * folders: 列出了所有主机和Homestead虚拟机共享的文件夹,可以配置多个共享文件夹
-  ```
-  folders:
-    - map: ~/code
-      to: F:/vagrant/code
+ ```
+ folders:
+   - map: ~/code
+     to: F:/vagrant/code
   ```
 * sites:将“域名”映射到 Homestead 虚拟机的指定目录,可以配置多个站点
   ```

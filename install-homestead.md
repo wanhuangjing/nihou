@@ -46,5 +46,23 @@ vagrant box list
 git clone https://github.com/laravel/homestead.git Homestead
 ```
 
+##### 克隆完成后，你需要检查Homestead的版本标签，因为`master`分支不会总是稳定版本，你可以在[GitHub Release Page](https://github.com/laravel/homestead/releases)查找最新稳定版本然后在本地将其检出
+```
+cd Homestead
+git checkout v7.0.1
+```
+##### 接下来，在Homestead目录下运行bash init.sh来创建Homestead.yaml
+```
+//Mac/Linux...
+bash init.sh
 
+//Windows
+ini.bat
+```
+
+#### Homestead.yaml
+
+* provider: 表示Vagrant的提供者(`vistualbox`、`vmware_fushion`、`vmware_workstation`或`parallels`)
+
+* folders: 列出了所有主机和Homestead虚拟机共享的文件夹
 

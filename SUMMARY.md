@@ -8,4 +8,6 @@
   * [flex-basis与width的区别](css/flex-basisyu-width-de-qu-bie.md)
 * laravel
   * [install homestead](install-homestead.md)
+* linux
+  * [更改PATH环境变量](change-path.md)
 

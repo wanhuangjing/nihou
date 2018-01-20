@@ -1,11 +1,11 @@
 ##### 查看PATH：echo $PATH
 
 * 修改方法一：
-  #### `export PATH=/usr/local/mongodb/bin:$PATH`
-  #### 配置完后可以通过`echo $PATH`查看配置结果。
-  #### 生效方法：立即生效
-  #### 有效期限：临时改变，只能在当前的终端窗口中有效，当前窗口关闭后就会恢复原有的path配置
-  #### 用户局限：仅对当前用户
+  ##### `export PATH=/usr/local/mongodb/bin:$PATH`
+  ##### 配置完后可以通过`echo $PATH`查看配置结果。
+  ##### 生效方法：立即生效
+  ##### 有效期限：临时改变，只能在当前的终端窗口中有效，当前窗口关闭后就会恢复原有的path配置
+  ##### 用户局限：仅对当前用户
 
 
 
@@ -34,7 +34,7 @@
 * 修改方法四:
   ##### 通过修改environment文件:
   `vim /etc/environment`
-  `PATH="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games"`中加入`:/usr/local/mongodb/bin`
+  `PATH="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games"`
   ##### 生效方法：系统重启
   ##### 有效期限：永久有效
   ##### 用户局限：对所有用户

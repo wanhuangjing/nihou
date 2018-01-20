@@ -108,4 +108,11 @@ ini.bat
 //git将会生成密钥文件和私钥文件 id_rsa,id_rsa.pub
 ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
 ```
-
+#### 安装Laravel
+```
+composer global require "laravel/installer"
+```
+#### 新建一个应用
+```
+laravel new blog
+```

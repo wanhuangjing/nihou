@@ -64,5 +64,33 @@ ini.bat
 
 * provider: 表示Vagrant的提供者(`vistualbox`、`vmware_fushion`、`vmware_workstation`或`parallels`)
 
-* folders: 列出了所有主机和Homestead虚拟机共享的文件夹
+* folders: 列出了所有主机和Homestead虚拟机共享的文件夹,可以配置多个共享文件夹
+  ```
+  folders:
+    - map: ~/code
+      to: F:/vagrant/code
+  ```
+* sites:将“域名”映射到 Homestead 虚拟机的指定目录,可以配置多个站点
+  ```
+  sites:
+    - map: homestead.test
+      to: /home/vagrant/code/public
+  ````
+  把 Nginx 站点配置中的域名添加到本地机器上的 hosts 文件中，该文件会将对本地域名的请求重定向到 Homestead 虚拟机，在 Mac 或 Linux上，该文件位于 /etc/hosts，在 Windows 上，位于 C:\Windows\System32\drivers\etc\hosts，添加方式如下：
+  ```
+  192.168.10.10 homestead.app
+  ```
+##### 修改Homestead.yaml,之后需要执行`vagrant reload --provision` 更新虚拟机上的 Nginx 配置。
+
+
+#### 启动homestea
+##### 配置好 Homestead.yaml 文件后，在 Homestead 目录下运行`vagrant up`
+
+#### 问题
+##### 如果出现`Check your Homestead.yaml file, the path to your private key does not exist.`
+##### 解决办法：
+```
+//git将会生成密钥文件和私钥文件 id_rsa,id_rsa.pub
+ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+```
 

@@ -42,5 +42,9 @@ vagrant box list
 
 ##### 按照文档的说明首先运行\(必须本地先安装git\)
 
+```
+git clone https://github.com/laravel/homestead.git Homestead
+```
+
 
 

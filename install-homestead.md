@@ -86,6 +86,21 @@ ini.bat
 #### 启动homestea
 ##### 配置好 Homestead.yaml 文件后，在 Homestead 目录下运行`vagrant up`
 
+#### 登陆、关闭和销毁虚拟机
+##### 登陆要登录到该虚拟机，使用 `vagrant ssh` 命令；
+##### 关闭该虚拟机，可以使用 `vagrant halt` 命令；
+##### 销毁该虚拟机，可以使用 `vagrant destroy --force` 命令。
+
+#### 连接Mysql数据库
+##### 主机 IP： 127.0.0.1，端口号是 33060，用户名/密码是 homestead/secret
+
+#### 更新Homestead
+* 使用 vagrant box update 命令更新 Vagrant 盒子：
+ ```
+ vagrant box update
+ ```
+* 更新 Homestead 源码在克隆仓库的地方运行 git pull origin master 即可。
+
 #### 问题
 ##### 如果出现`Check your Homestead.yaml file, the path to your private key does not exist.`
 ##### 解决办法：

@@ -16,3 +16,5 @@
   * [=与:=的区别](two-equals.md)
 * jQuery
   * [获得当前元素的html](get-current-html.md)
+* javascript
+  * [typeofnull等于object的原因](typeofnull.md) 

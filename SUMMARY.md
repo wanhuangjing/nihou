@@ -10,12 +10,15 @@
 * laravel
   * [install homestead](install-homestead.md)
 * linux
-  * [更改PATH环境变量](change-path.md)
+  * [更改PATH环境变量](change-path.md)
 * Mysql
-  * [set与declare的区别](set-declare.md)  
+  * [set与declare的区别](set-declare.md)
   * [按照in的顺序输出结果](in-order.md)
   * [=与:=的区别](two-equals.md)
 * jQuery
   * [获得当前元素的html](get-current-html.md)
-* javascript
+* [javascript](javascript.md)
   * [typeofnull等于object的原因](typeofnull.md)
+* [浏览器兼容性](liu-lan-qi-jian-rong-xing.md)
+  * [ie6三像素bug](liu-lan-qi-jian-rong-xing/ie6san-xiang-su-bug.md)
+

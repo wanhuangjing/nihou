@@ -5,6 +5,7 @@
 * 日语初级
   * [第一课](di-yi-ke.md)
   * [第二课](di-er-ke.md)
+  * [第二课](di-er-ke.md)
 * [css](css.md)
   * [flex-basis与width的区别](css/flex-basisyu-width-de-qu-bie.md)
 * laravel
@@ -21,4 +22,6 @@
   * [typeofnull等于object的原因](typeofnull.md)
 * [浏览器兼容性](liu-lan-qi-jian-rong-xing.md)
   * [ie6三像素bug](liu-lan-qi-jian-rong-xing/ie6san-xiang-su-bug.md)
+* [tcpip协议](tcpipxie-yi.md)
+  * [tcpip-第二课](tcpipxie-yi/tcpipdi-er-ke.md)
 

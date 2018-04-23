@@ -72,5 +72,13 @@
 
 ![](/assets/18-4-23-2.png)
 
+* Application: Network processes to applications
+* Presentation:Data representation
+* Session:Inter-host communication
+* Transport:End-to-end connections
+* Network:Addressing and best path
+* Data Link:Access to media
+* Physical:Binary transmission
+
 
 

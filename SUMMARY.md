@@ -10,8 +10,9 @@
   * [flex-basis与width的区别](css/flex-basisyu-width-de-qu-bie.md)
 * laravel
   * [install homestead](install-homestead.md)
-* linux
+* [linux](linux.md)
   * [更改PATH环境变量](change-path.md)
+  * [firewall](firewall.md)
 * Mysql
   * [set与declare的区别](set-declare.md)
   * [按照in的顺序输出结果](in-order.md)

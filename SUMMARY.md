@@ -25,4 +25,5 @@
   * [ie6三像素bug](liu-lan-qi-jian-rong-xing/ie6san-xiang-su-bug.md)
 * [tcpip协议](tcpipxie-yi.md)
   * [tcpip-第二课](tcpipxie-yi/tcpipdi-er-ke.md)
+* [es6](es6.md)
 

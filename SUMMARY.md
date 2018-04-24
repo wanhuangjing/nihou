@@ -26,4 +26,5 @@
 * [tcpip协议](tcpipxie-yi.md)
   * [tcpip-第二课](tcpipxie-yi/tcpipdi-er-ke.md)
 * [es6](es6.md)
+  * [let 和 const 命令](es6/let-he-const-ming-ling.md)
 

@@ -11,6 +11,7 @@
 a//ReferenceError: a is not defined
 b//1
 ```
+
 ```javascript
 for (let i = 0; i < 10; i++) {
  console.log(i)

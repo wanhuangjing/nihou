@@ -1,5 +1,8 @@
+### ![](http://es6.ruanyifeng.com/#docs/let)
 #### let命令
+
 ##### let所声明的变量，只在`let`命令所在的代码块内有效
+
 ```javascript
 {
  let a = 10;
@@ -8,3 +11,8 @@
 a//ReferenceError: a is not defined
 b//1
 ```
+
+##### 上面的代码中，变量`i`是`let`声明的，所以每一次循环的`i`其实都是一个新的变量，但是javascript引擎内部会记住上一轮循环的值，初始化本轮的变量
+
+
+

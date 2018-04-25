@@ -1,4 +1,4 @@
-### ![](http://es6.ruanyifeng.com/#docs/let)
+### [](http://es6.ruanyifeng.com/#docs/let)
 #### let命令
 
 ##### let所声明的变量，只在`let`命令所在的代码块内有效

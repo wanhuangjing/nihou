@@ -24,8 +24,15 @@
 #### :first-of-type
 
 ```html
-
+<div>
+  <p>第一个子元素</p>
+  <h1>第二个子元素</h1>
+  <span>第三个子元素</span>
+  <span>第四个子元素</span>
+</div>
 ```
+* p:first-of-type：匹配到的p元素，因为p元素是div中所有为p的子元素中的第一个
+* h1:first-of-type：匹配到的是h1元素，因为h1元素是div中所有为h1的子元素中的第一个
 
 
 

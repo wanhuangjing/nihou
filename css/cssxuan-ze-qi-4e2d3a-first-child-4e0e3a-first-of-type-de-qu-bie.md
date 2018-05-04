@@ -36,7 +36,7 @@
 * span:first-of-type：匹配到的是第三个子元素span。这里div有两个为span的子元素，匹配到的是第一个
 * first——of-type：匹配到的是p元素
 
-##### 同样类型的选择器:last-child和:last-of-type、:nth-child(n)和:nth-of-type(n)
+##### 同样类型的选择器:last-child 和 :last-of-type、:nth-child(n) 和 :nth-of-type(n)
 
 
 

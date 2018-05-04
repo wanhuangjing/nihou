@@ -8,6 +8,7 @@
   * [第二课](di-er-ke.md)
 * [css](css.md)
   * [flex-basis与width的区别](css/flex-basisyu-width-de-qu-bie.md)
+  * [css选择器中:first-child与:first-of-type的区别](css/cssxuan-ze-qi-4e2d3a-first-child-4e0e3a-first-of-type-de-qu-bie.md)
 * laravel
   * [install homestead](install-homestead.md)
 * [linux](linux.md)

@@ -17,7 +17,12 @@
 </div>
 ```
 * p:first-child: 匹配到的是p元素，因为p元素是div的第一个子元素
-* h1:first-child
+* h1:first-child：匹配不到任何元素，因为h1是div的第二个子元素，而不是第一个
+* span:first-child：匹配不到任何元素，因为两个span元素都不是div的第一个子元素
+* :first-child：匹配到的是p元素，因为div的第一个元素就是p元素
+
+#### :first-of-type
+
 
 
 

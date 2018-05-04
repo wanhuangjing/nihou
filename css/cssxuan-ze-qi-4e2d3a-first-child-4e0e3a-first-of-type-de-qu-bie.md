@@ -22,7 +22,7 @@
 * :first-child：匹配到的是p元素，因为div的第一个元素就是p元素
 
 #### :first-of-type
-
+##### :first-of-type 匹配的是该选择器的第一个元素
 ```html
 <div>
   <p>第一个子元素</p>

@@ -33,6 +33,8 @@
 ```
 * p:first-of-type：匹配到的p元素，因为p元素是div中所有为p的子元素中的第一个
 * h1:first-of-type：匹配到的是h1元素，因为h1元素是div中所有为h1的子元素中的第一个
+* span:first-of-type：匹配到的是第三个子元素span。这里div有两个为span的子元素，匹配到的是第一个
+* first——of-type：匹配到的是p元素
 
 
 

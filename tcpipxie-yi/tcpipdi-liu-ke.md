@@ -39,6 +39,11 @@
 #### 3.3交换
 ##### 局域网中很少用到交换机制，通常用在广域网或者是网络层，而局域网是一种广播式的发送，不存在交换的问题
 * 交换系统
-
+ #### 有多个输入和输出的”黑盒子“
+* 电路交换 Circuit Switching
+* 分组交换 PacketSwitching
+ ##### 数据包 Datagram
+ ##### 虚电路 Virtual Circuit, VC
+* 报文交换 Message Switching
 
 

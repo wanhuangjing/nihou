@@ -46,4 +46,10 @@
  ##### 虚电路 Virtual Circuit, VC
 * 报文交换 Message Switching
 
+##### 电路交换
 
+* 建立连接
+* 数据传输
+* 拆徐连接
+
+##### 典型实例：电话系统

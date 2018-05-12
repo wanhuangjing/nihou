@@ -11,8 +11,8 @@
 ##### IP地址表示--点分十进制
 
 ##### 4.2 IP地址分类--Classful IP
-* Class A:
-    32bit中最高一位的bit值为0，7位的Netid，24位的Hostid
+* Class A:32bit中最高一位的bit值为0，7位的Netid，24位的Hostid
+
     网络个数：2^7,
     一个A类网络内主机个数:2^24
     0.0.0.0 ~ 127.255.255.255

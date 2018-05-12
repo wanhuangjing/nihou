@@ -22,4 +22,5 @@
 * Class C: 最高位的3bit，值110，21位Netid，8位Hostid
 
     192.0.0.0 ~ 223.255.2552.55
-* Class D: 最高位的4bit，值1110，24位的Multicast，Class D用来标识组播应用
+* Class D: 最高位的4bit，值1110，24位的Multicast，
+Class D用来标识组播应用

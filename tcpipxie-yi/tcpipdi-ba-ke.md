@@ -11,4 +11,4 @@
 ##### IP地址表示--点分十进制
 
 ##### 4.2 IP地址分类--Classful IP
-
+* Class A:32bit中最高一位的bit值为0

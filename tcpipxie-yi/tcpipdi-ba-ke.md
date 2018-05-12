@@ -26,4 +26,6 @@
 * Class D: 
     * 最高位的4bit，值1110，24位的Multicast，
     * 用来标识组播应用，而不是网络连接
-* Class E：最高位的4bit，值1111，24位的
+* Class E：
+    * 最高位的4bit，值1111，24位的Reserved
+    

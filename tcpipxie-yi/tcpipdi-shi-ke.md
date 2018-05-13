@@ -6,4 +6,4 @@
 ##### 严格上来说，netId不应该包含了分类标识
 
 #### 环回地址（Loopback address，127.X.Y.Z）
-##### 同一台主机上的Process1进程与Process2之间的通信，Process 1这个应用进程产生了一个数据
+##### 同一台主机上的Process1进程与Process2之间的通信，Process 1这个应用进程产生了一个数据，这个数据接收方的IP地址是127.X.Y.Z<是一个环回地址

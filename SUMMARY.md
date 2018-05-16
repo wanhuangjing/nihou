@@ -9,6 +9,7 @@
 * [css](css.md)
   * [flex-basis与width的区别](css/flex-basisyu-width-de-qu-bie.md)
   * [css选择器中:first-child与:first-of-type的区别](css/cssxuan-ze-qi-4e2d3a-first-child-4e0e3a-first-of-type-de-qu-bie.md)
+  * [表格属性](css/biao-ge-shu-xing.md)
 * laravel
   * [install homestead](install-homestead.md)
 * [linux](linux.md)
@@ -30,11 +31,7 @@
   * [tcpip-第四课](tcpipxie-yi/tcpipdi-si-ke.md)
   * [tcpip-第五课](tcpipxie-yi/tcpipdi-wu-ke.md)
   * [tcpip-第六课](tcpipxie-yi/tcpipdi-liu-ke.md)
-  * [tcpip-第七课](tcpipxie-yi/tcpipdi-qi-ke.md)
   * [ip数据包结构](tcpipxie-yi/ipshu-ju-bao-jie-gou.md)
-  * [tcpip-第八课](tcpipxie-yi/tcpipdi-ba-ke.md)
-  * [tcpip-第九课](tcpipxie-yi/tcpipdi-jiu-ke.md)
-  * [tcpip-第十课](tcpipxie-yi/tcpipdi-shi-ke.md)
 * [es6](es6.md)
   * [let 和 const 命令](es6/let-he-const-ming-ling.md)
 

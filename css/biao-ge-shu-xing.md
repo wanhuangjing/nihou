@@ -17,4 +17,12 @@
 * valign：该行的内容垂直对齐方式，取值：top，middle，bottom
 * bgcolor：该行的背景颜色 **不赞成使用，用`background-color`代替**
 #### td属性
-* width：
+* colspan：设置单元格跨列
+* rowspan：设置单元格跨行
+#### 表格特有样式属性
+* border-collapse:
+    * separate:默认值，分离边框模式
+    * collapse：边框合并
+* border-spacing：边框边距
+    * 1个值：表示水平距离和垂直距离相等
+    * 2个值：第一个值表示水平距离，第二个值代表垂直距离，中间用空格隔开

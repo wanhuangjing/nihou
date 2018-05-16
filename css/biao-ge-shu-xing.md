@@ -15,5 +15,5 @@
 #### tr属性
 * align：该行的内容水平对齐方式
 * valign：该行的内容垂直对齐方式，取值：top，middle，bottom
-* bgcolor：该行的背景颜色 **不赞成使用**
+* bgcolor：该行的背景颜色 **不赞成使用，用`background-color`代替**
 ####

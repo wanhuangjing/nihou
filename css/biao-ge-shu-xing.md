@@ -12,7 +12,6 @@
 * align：表格的对齐方式，通常是left,center,right
 * bgcolor：表格的背景颜色 **不赞成使用**
 
-
 #### tr属性
 * align：该行的内容水平对齐方式
 * valign：该行的内容垂直对齐方式，取值：top，middle，bottom

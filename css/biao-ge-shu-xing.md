@@ -26,4 +26,4 @@
 * border-spacing：边框边距
     * 1个值：表示水平距离和垂直距离相等
     * 2个值：第一个值表示水平距离，第二个值代表垂直距离，两个值中间用空格隔开
-    * border-collapse必须是separate时
+    * border-collapse必须是separate时才生效

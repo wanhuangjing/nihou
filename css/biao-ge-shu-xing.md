@@ -10,7 +10,7 @@
 * cellspacing：单元格外边距 单元格间的间距
 * cellpadding：单元格内边距 单元格的内容与其边框的距离
 * align：表格的对齐方式，通常是left,center,right
-* bgcolor：表格的背景颜色 **不赞成使用**
+* bgcolor：表格的背景颜色 **不赞成使用，用`background-color`代替**
 
 #### tr属性
 * align：该行的内容水平对齐方式

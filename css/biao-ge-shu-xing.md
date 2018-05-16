@@ -9,7 +9,7 @@
 * border：表格边框宽度，以px为单位的数值，px可以省略
 * cellspacing：单元格外边距 单元格间的间距
 * cellpadding：单元格内边距 单元格的内容与其边框的距离
-* align：表格的对齐方式，通常是left,center,right
+* align：表格的对齐方式，通常是left,center,right**不赞成使用。请使用样式代替**
 * bgcolor：表格的背景颜色 **不赞成使用，用`background-color`代替**
 
 #### tr属性
@@ -17,3 +17,4 @@
 * valign：该行的内容垂直对齐方式，取值：top，middle，bottom
 * bgcolor：该行的背景颜色 **不赞成使用，用`background-color`代替**
 #### td属性
+* width：

@@ -1,0 +1,1 @@
+#### 在jQuery中，最终传入事件处理程序的event，其实已经被jQuery做过标准化处理，其原有对象则被保存于event对象的originalEvent属性中

@@ -53,3 +53,12 @@
 </body>
 </html>
 ```
+
+#### mouseouter与mouseleave
+##### mouseout事件：不论鼠标指针离开被选元素还是任何子元素，都会触发mouseout事件
+##### mouseleave事件：只有在鼠标指针离开被选元素时，才会触发mouseleave事件
+
+
+
+
+

@@ -8,4 +8,4 @@
 ##### 地址浪费大，只有两、三台主机的网络也要用256个IP地址，A、B类浪费严重，少有上万台主机的网络
 ##### 解决： 无类IP编址（Classless IP）
 * 子网划分（Subnetting）：
-* 超网划分（Supernetting）：
+* 超网划分(Supernetting)：

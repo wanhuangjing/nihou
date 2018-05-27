@@ -15,3 +15,7 @@
 
 * 主机号（Host id）：IP地址的一个组成部分
 * 主机地址（Host address）：一个IP地址
+
+##### 网络地址（Net address）：特定 Net id
+##### 子网地址(Subnet address)：特定Net id + 特定 Subnet id
+##### 主机地址（Host address）：特定Net id + 特定 Subnet id + 特定 Host id

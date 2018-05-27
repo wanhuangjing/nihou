@@ -54,11 +54,10 @@
 #### 掩码运算--位与运算
 
 * Net address = IP address & Mask
-
 * Host address = IP address & Mask\(取反\)
 * Address range = {Net address,Net address+Mask(取反)}
 
-
+##### IP address = 200.6.12.55， Mask = 255.255.248.0
 
 
 

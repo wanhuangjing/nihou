@@ -58,7 +58,7 @@
 * Address range = {Net address,Net address+Mask(取反)}
 
 ##### IP address = 200.6.12.55， Mask = 255.255.248.0
-
+##### Net address = 200.6.12.55 & 255.255.248.0 = 200.6.8.0
 
 
 

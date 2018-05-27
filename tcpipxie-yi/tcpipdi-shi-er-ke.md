@@ -19,3 +19,7 @@
 ##### 网络地址（Net address）：特定 Net id，全0Subnet id + 全0Host id，全1Host id->网络广播地址
 ##### 子网地址(Subnet address)：特定Net id + 特定 Subnet id + 全0Host id，全1Host id->子网广播地址
 ##### 主机地址（Host address）：特定Net id + 特定 Subnet id + 特定 Host id
+
+
+
+

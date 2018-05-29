@@ -42,4 +42,5 @@
   * [tcpip-第十二课](tcpipxie-yi/tcpipdi-shi-er-ke.md)
 * [es6](es6.md)
   * [let 和 const 命令](es6/let-he-const-ming-ling.md)
+* [正则](zheng-ze.md)
 

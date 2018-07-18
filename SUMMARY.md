@@ -46,4 +46,5 @@
 * [es6](es6.md)
   * [let 和 const 命令](es6/let-he-const-ming-ling.md)
 * [正则](zheng-ze.md)
+* [删除git大文件](shan-chu-git-da-wen-jian.md)
 

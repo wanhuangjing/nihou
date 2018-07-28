@@ -15,6 +15,7 @@
 * [linux](linux.md)
   * [更改PATH环境变量](change-path.md)
   * [firewall](firewall.md)
+  * [ubuntu ufw命令](ubuntu-ufwming-ling.md)
 * [Mysql](mysql.md)
   * [set与declare的区别](set-declare.md)
   * [按照in的顺序输出结果](in-order.md)

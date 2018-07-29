@@ -1,7 +1,7 @@
 1. 下载easyBCD 
 
 
-2. 下载ubuntu16.04LS 
+2. 下载ubuntu18.04LS 
 
 
 3. 安装easyBCD，安装好之后打开 
@@ -18,7 +18,7 @@ title Install Ubuntu
 
 root (hd0,0)
 
-kernel (hd0,0)/vmlinuz.efi boot=casper iso-scan/filename=/ubuntu-14.04-desktop-amd64.iso locale=zh_CN.UTF-8
+kernel (hd0,0)/vmlinuz.efi boot=casper iso-scan/filename=/ubuntu-18.04-desktop-amd64.iso locale=zh_CN.UTF-8
 
 initrd (hd0,0)/initrd.lz
 

@@ -40,10 +40,11 @@ halt
 
 4. 将下载好的ubuntu16.04解压，进入解压目录下找到casper，进入casper文件夹initrd.lz和vmlinuz.efi复制到c 盘根目录：
 
-这里写图片描述
+![](/assets/18-7-29-3.png)
 
 5. 重启电脑，多了一个启动选择项目NeoGrub引导加载器，选择并进入新的启动项目中。
 
 6. 刷完后就进入一个小系统，别以为这就装好了，此时最重要的一步，通过快捷键ctrl+alt+T打开终端，输入：sudo umount -l /isodevice 
 注意空格和小写的L，执行后就可以双击安装图标进行安装了
+![](/assets/18-7-29-4.png)
 

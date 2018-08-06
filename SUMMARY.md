@@ -26,6 +26,7 @@
 * [jQuery](jquery.md)
   * [获得当前元素的html](get-current-html.md)
   * [jquery之event与originalEvent的关系](jqueryzhi-event-yu-originalevent-de-guan-xi.md)
+  * [$区分](qu-fen.md)
   * [mouseover与mouseenter](mouseoveryu-mouseenter.md)
 * [javascript](javascript.md)
   * [typeofnull等于object的原因](typeofnull.md)

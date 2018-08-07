@@ -51,4 +51,5 @@
 * [正则](zheng-ze.md)
 * [删除git大文件](shan-chu-git-da-wen-jian.md)
 * [硬盘c4,c5](ying-pan-c4-c5.md)
+* [四种常见的 POST 提交数据方式对应的content-type取值](si-zhong-chang-jian-de-postti-jiao-shu-ju-fang-shi-dui-ying-de-content-type-qu-zhi.md)
 

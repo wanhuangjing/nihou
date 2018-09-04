@@ -39,7 +39,21 @@
 ##### 同样类型的选择器:last-child 和 :last-of-type、:nth-child(n) 和 :nth-of-type(n)
 
 ** 注意**
-
+```
+<style>
+.box .test:first-of-type
+{
+  background:#ff0000;
+}
+</style>
+<div class="box">
+<div>这是第2个DIV。</div>
+<p>这是第1个段落。</p>
+<p class='test'>这是第2个段落。</p>
+<div>这是第2个DIV。</div>
+<p>这是第3个段落。</p>
+</div>
+```
 ##### 这段代码，没有像我们期望中的标红.test元素（即第2个段落标签），如果没理解到上面提到的语法关键词意思，第一反应可能会产生“:first-of-type带class写法浏览器不能识别，失效，这是bug”的错误理解。
 ##### 我们不能简单粗暴，理所当然的将上面的代码错误理解为“匹配父元素.box内第一个.test元素”，我们按上面提到关键词解析下：.box .test:first-of-type
 ##### 即：匹配父元素.box内同类型标签元素P中的第一个元素.test，但我们看到.test 明显是父元素.box内同类型标签元素P中的第二个元素,所以.test元素（即第2个段落标签）并没有被匹配标红！

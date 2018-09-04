@@ -39,7 +39,7 @@
 ##### 同样类型的选择器:last-child 和 :last-of-type、:nth-child(n) 和 :nth-of-type(n)
 
 ** 注意**
-```
+```html
 <style>
 .box .test:first-of-type
 {
